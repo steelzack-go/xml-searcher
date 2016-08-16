@@ -1,0 +1,5 @@
+cassandra:
+    port: 9042
+    host: 127.0.0.1
+basefolder:
+    folder: yourhomefolder
