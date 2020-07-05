@@ -1,6 +1,4 @@
 Xml searcher service:
-
-
 Receives values from a REST entry point and stores data in a Cassandra store
 
 Please have a look at the client repo: https://github.com/steelzack-go/xml-searcher-client
